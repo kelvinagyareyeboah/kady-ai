@@ -113,5 +113,4 @@ Do **NOT** commit your `.env` files to Git. Both the `backend` and `frontend` fo
 ---
 
 ## 🤝 Credits
-Created and engineered with ❤️ by **Kelvin Agyare Yeboah** (ByteBao Campus A
-
+Created and engineered with ❤️ by **Kelvin Agyare Yeboah** (ByteBao Cam
