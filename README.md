@@ -45,7 +45,7 @@ kady-ai/
 
 * **Fro: Re Vite, Framer Motion, Lucide React icons, and Vanilla CSS.
 * **Ba ECORS mware, and Dotenv.
-* **API EOpe
+* **AP
 
 ## 🚀 Getting Started
 
