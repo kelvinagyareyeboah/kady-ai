@@ -43,8 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **Fromer
-
+* **From
 
 
 ## 🚀 Getting Started
