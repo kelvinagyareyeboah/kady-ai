@@ -45,7 +45,7 @@ kady-ai/
 
 * **Frontend**: React 18, Vite, Framer Motion, Lucide React icons, and Vanilla CSS.
 * **Backend**: Node.js, Express, CORS middleware, and Dotenv.
-* **API Engine**: OpenRouter API (`deepseek/deepseek-chat`).
+* **API Engine**: OpenRouter API (`deepseek/deepseek-chat
 
 ---
 
