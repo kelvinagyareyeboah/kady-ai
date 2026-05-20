@@ -44,7 +44,7 @@ kady-ai/
 ## 🛠️ Technology Stack
 
 * **Fro: Re Vite, Framer Motion, Lucide React icons, and Vanilla CSS.
-* **Backode.js, Express, CORS middleware, and Dotenv.
+* **Ba Express, CORS middleware, and Dotenv.
 * **API EOpenRout(`deep
 ---
 
