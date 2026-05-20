@@ -1,2 +1,2 @@
 # kady-ai
-An intelligent productivity platform designed to streamline 
+An intelligent productivity platform designed to s
