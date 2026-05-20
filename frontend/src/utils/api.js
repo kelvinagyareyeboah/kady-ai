@@ -1,24 +1,13 @@
 import toast from 'react-hot-toast'
 
-// OpenRouter API configuration
-const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions'
-
-// Get API key from environment
-const getApiKey = () => {
-  const key = import.meta.env.VITE_OPENROUTER_API_KEY;
-  // Check if the key is set and not the example value
-  if (!key || key === 'your_openrouter_api_key_here') {
-    console.error('OpenRouter API key not configured properly');
-    return null;
-  }
-  return key;
-}
+// Backend API configuration
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000/api/chat'
 
 const DEFAULT_MODEL = import.meta.env.VITE_DEFAULT_MODEL || 'deepseek/deepseek-chat'
 
-// Check if API key is configured
+// Check if API client is ready (backend URL configured)
 export const isApiConfigured = () => {
-  return !!getApiKey();
+  return !!BACKEND_URL;
 }
 
 // Function to clean markdown formatting
@@ -48,21 +37,11 @@ const cleanMarkdown = (text) => {
 }
 
 export const sendMessageToAI = async (message, onStream = null) => {
-  const API_KEY = getApiKey();
-  
-  // Check if API key is configured
-  if (!API_KEY) {
-    throw new Error('OpenRouter API key not configured. Please check your .env file.');
-  }
-
   try {
-    const response = await fetch(OPENROUTER_API_URL, {
+    const response = await fetch(BACKEND_URL, {
       method: 'POST',
       headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${API_KEY}`,
-        'HTTP-Referer': window.location.origin,
-        'X-Title': 'Kady AI'
+        'Content-Type': 'application/json'
       },
       body: JSON.stringify({
         model: DEFAULT_MODEL,
