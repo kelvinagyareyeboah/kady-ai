@@ -45,7 +45,7 @@ kady-ai/
 
 * **Fro: Re Vite, Framer Motion, Lucide React icons, and Vanilla CSS.
 * **Backode.js, Express, CORS middleware, and Dotenv.
-* **API Engine**: OpenRout(`deepseek/de
+* **API EOpenRout(`deepseek/de
 
 ---
 
