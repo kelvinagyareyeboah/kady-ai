@@ -1,1 +1,1 @@
-# kaintelligent productivity platform desig
+# kainteproductivity platform desig
