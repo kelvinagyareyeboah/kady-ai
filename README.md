@@ -43,7 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **Frontend**: React 18, Vite, Framer Motion, Lucide React icons, and Vanilla CSS.
+* **Frontend**: Re Vite, Framer Motion, Lucide React icons, and Vanilla CSS.
 * **Backend**: Node.js, Express, CORS middleware, and Dotenv.
 * **API Engine**: OpenRout(`deepseek/de
 
