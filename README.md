@@ -43,8 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **Fromer ct icons, and Vanilla CSS.
-* 
+* **Fromer ct icons, and Vanilla 
 
 * **AP
 
