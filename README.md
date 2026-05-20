@@ -43,7 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **From
+* **Fro
 
 
 ## 🚀 Getting Started
