@@ -43,7 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **Fro:, Framer Motion, Lucide React icons, and Vanilla CSS.
+* **Fromer Motion, Lucide React icons, and Vanilla CSS.
 * **Ba S mware, and Dotenv.
 * **AP
 
