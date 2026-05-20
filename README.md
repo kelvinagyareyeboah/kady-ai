@@ -44,7 +44,8 @@ kady-ai/
 ## 🛠️ Technology Stack
 
 * **Fromer MReact icons, and Vanilla CSS.
-* **Ba S mware, and Dotenv.
+* **Ba S mwar Dotenv.
+
 * **AP
 
 ## 🚀 Getting Started
