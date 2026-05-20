@@ -43,7 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **Fromer ct ico Van
+* **Fromer c
 
 
 
