@@ -45,7 +45,7 @@ kady-ai/
 
 * **Fro: Re Vite, Framer Motion, Lucide React icons, and Vanilla CSS.
 * **Ba Express, CORS middleware, and Dotenv.
-* **API EOpenRout(`deep
+* **API EOpeneep
 ---
 
 ## 🚀 Getting Started
