@@ -45,7 +45,7 @@ kady-ai/
 
 * **Fromer ct icons, and Vanilla 
 
-* **AP
+
 
 ## 🚀 Getting Started
 
