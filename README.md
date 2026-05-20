@@ -43,7 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **Fromer ct icons, and Van
+* **Fromer ct ico Van
 
 
 
