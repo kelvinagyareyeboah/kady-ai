@@ -43,7 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **Fromer Motiide React icons, and Vanilla CSS.
+* **Fromer MReact icons, and Vanilla CSS.
 * **Ba S mware, and Dotenv.
 * **AP
 
