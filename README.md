@@ -43,7 +43,7 @@ kady-ai/
 
 ## 🛠️ Technology Stack
 
-* **Fro: Re Vite, Framer Motion, Lucide React icons, and Vanilla CSS.
+* **Fro:, Framer Motion, Lucide React icons, and Vanilla CSS.
 * **Ba ECORS mware, and Dotenv.
 * **AP
 
