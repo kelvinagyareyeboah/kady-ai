@@ -41,9 +41,7 @@ kady-ai/
 
 ---
 
-## 🛠️ Technology Stack
 
-* **Fro
 
 
 ## 🚀 Getting Started
